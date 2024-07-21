@@ -1,6 +1,5 @@
 import React from 'react'
 import './NewsLetter.css'
-import { useState } from 'react'
 
 const NewsLetter = () => {
   
